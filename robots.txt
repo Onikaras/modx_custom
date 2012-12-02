@@ -1,0 +1,30 @@
+User-agent: Yandex
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/
+Disallow: /?
+Disallow: /*?id=
+Disallow: /info*
+Host: example.ru
+
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/
+Disallow: /?
+Disallow: /*?id=
+Disallow: /info*
+
+Sitemap: http://example.ru/sitemap.xml
