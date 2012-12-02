@@ -1,2 +1,1 @@
-modx_custom
-===========
+Some Text
